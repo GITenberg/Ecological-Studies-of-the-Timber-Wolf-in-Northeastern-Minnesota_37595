@@ -1,0 +1,47 @@
+_repo: Ecological-Studies-of-the-Timber-Wolf-in-Northeastern-Minnesota_37595
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Mech, L. David
+    aliases:
+    - Mech, David
+    - Mech, Dave
+    gutenberg_agent_id: '37389'
+    url: http://www.gutenberg.org/2009/agents/37389
+  - agent_name: Karns, P. D.
+    gutenberg_agent_id: '38940'
+    url: http://www.gutenberg.org/2009/agents/38940
+  - agent_name: Ream, Robert R.
+    gutenberg_agent_id: '38938'
+    url: http://www.gutenberg.org/2009/agents/38938
+  - agent_name: Winship, John W.
+    gutenberg_agent_id: '38939'
+    url: http://www.gutenberg.org/2009/agents/38939
+  - agent_name: Frenzel, Louis Daniel
+    alias: Frenzel, L. D.
+    gutenberg_agent_id: '38937'
+    url: http://www.gutenberg.org/2009/agents/38937
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+gutenberg_issued: '2011-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37595'
+  lccn: '72612017'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: USDA Forest Service Research Paper NC-52
+subjects:
+- !lcsh 'Gray wolf -- Ecology -- Minnesota'
+- !lcsh 'Deer -- Minnesota'
+- !lcsh 'Gray wolf -- Behavior -- Minnesota'
+- !lcc 'SD'
+title: Ecological Studies of the Timber Wolf in Northeastern Minnesota
+url: http://www.gutenberg.org/ebooks/37595
